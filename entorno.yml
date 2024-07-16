@@ -1,0 +1,9 @@
+name: educacioneua
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - streamlit
+  - plotly::plotly
+prefix: C:\Users\jorge\miniconda3\envs\educacioneua
